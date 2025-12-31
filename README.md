@@ -3,6 +3,8 @@
 A personalized trivia game that tests how well you know your own music taste. Pulls real Spotify data to generate custom questions about your top artists and tracks, plus reveals hidden analytics Spotify doesn't normally show.
 
 **Online link will be back up soon!!! There are some copyright issues I have to fix.**
+
+
 **Access Restrictions:** Due to Spotify API development mode restrictions, users must be added to the project allowlist before authentication will work. If you want to use Spotify Guess, please email **danieldeda165@gmail.com** with your Spotify account email to be added to the allowlist (25 max capacity, ~20 spots remaining).
 
 ## ✨ Features
