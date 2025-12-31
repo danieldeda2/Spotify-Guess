@@ -1,0 +1,284 @@
+.profile_logo{
+    height: 150px;
+    width: 150px;
+    margin: 15px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 110px;
+    border: none;
+    border-radius: 75px;
+}
+
+.home_button{
+    height: 50px;
+    width: 80px;
+    margin-top: 30px;
+    position: absolute;
+    left: 0;
+    margin-left: 30px;
+    border: 0;
+    border-radius: 30px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 15px;
+}
+
+.profile_section{
+    overflow-y: scroll; 
+    height:470px;
+    margin-top: 30px;
+}
+
+.username_display{
+    font-size: 35px;
+    line-height: 53px;
+    margin: 0;
+    font-weight: 550;
+    text-align: center;
+    color:  #dcd1cd;
+    margin-top: -15px;
+}
+
+.go_to_spotify{
+    height: 50px;
+    width: 160px;
+    margin-top: 15px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 0;
+    border-radius: 30px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 20px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.top_artists_button{
+    height: 40px;
+    width: 110px;
+    display: block;
+    margin: 0px 10px;
+    border: 0;
+    border-radius: 30px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 14px;
+}
+
+.top_tracks_button{
+    height: 40px;
+    width: 110px;
+    display: block;
+    margin: 0px 10px;
+    border: 0;
+    border-radius: 30px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 14px;
+}
+
+.short_term_button{
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin: 0px 5px;
+    border: 0;
+    border-radius: 6px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 14px;
+}
+
+.medium_term_button{
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin: 0px 5px;
+    border: 0;
+    border-radius: 6px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 14px;
+}
+
+.term{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 21px;
+    margin-bottom: -15px;
+
+    p{
+        margin-top: -2px;
+        padding-left: 5px;
+    }
+    
+}
+
+
+.long_term_button{
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin: 0px 5px;
+    border: 0;
+    border-radius: 6px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 14px;
+}
+
+.clicked_term_button{
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin: 0px 5px;
+    border: 0;
+    border-radius: 6px;
+    background-color: gray;
+    color: black;
+    font-size: 14px;
+}
+
+
+
+
+.profile_button{
+    height: 40px;
+    width: 110px;
+    display: block;
+    margin: 0px 10px;
+    border: 0;
+    border-radius: 30px;
+    background-color: #1ed760;
+    color: black;
+    font-size: 14px;
+}
+
+.clicked_button{
+    height: 40px;
+    width: 110px;
+    display: block;
+    margin: 0px 10px;
+    border: 0;
+    border-radius: 30px;
+    background-color: gray;
+    color: black;
+    font-size: 14px;
+}
+
+.rows{
+    display: grid;
+    grid-template-columns: 50px 100px 150px;
+    column-gap: 10px;
+    justify-content: center;
+    margin: 20px;
+
+    p{
+        margin-top: 40px;
+        margin-right: 50px;
+    }
+
+    h3{
+        margin-top: 30px;
+        margin-left: 50px;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    
+
+    img{
+        height: 100px;
+        width: 100px;
+
+    }
+
+    .name-track{
+
+        max-width: 150px;
+        max-height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+
+        p{
+            margin-bottom: 0;
+            margin-left: 0;
+            margin-right: 0;
+            margin-top: 0;
+        }
+
+        h3{
+            margin-top: 0;
+            margin-left: 0;
+            margin-right: 0;  
+            margin-bottom: 0;      
+        }
+    }
+
+    
+}
+
+.artists{
+    margin-top: -20px;
+    margin-bottom: -50px;
+}
+
+.tracks{
+    margin-top: -40px;
+    margin-bottom: -45px;
+}
+
+.profile_row1{
+
+    margin-top: -45px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    p{
+        margin-top: 2px;
+        margin-left: 10px;
+
+    }
+
+    h3{
+        margin-top: 0;
+    }
+
+}
+
+
+.profile_row2{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    p{
+        margin-top: 3px;
+        margin-left: 10px;
+
+    }
+
+    h3{
+        margin-top: 0;
+    }
+
+}
+
+.tuning_buttons{
+    margin-bottom: -30px;
+}
+
+
