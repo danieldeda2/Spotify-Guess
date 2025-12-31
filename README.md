@@ -42,10 +42,20 @@ A personalized trivia game that tests how well you know your own music taste. Pu
 ## 🎨 Demo
 
 View most listened-to tracks and artists (up to 25) and 3 settings: 1) Short term - last 4 weeks 2) Medium term - last 6 months 3) Long term - last year +
+
+
+
 <img width="600" height="600" alt="about_img3" src="https://github.com/user-attachments/assets/9c5704fb-b4c0-47b6-8c8f-0dbd88ec2671" />
 
+
+
 Playing trivia game customized to your playlists: 
+
+
+
 <img width="600" height="600" alt="about_img5" src="https://github.com/user-attachments/assets/919fd928-2082-40a5-b98d-6d8daf4b9415" />
+
+
 
 ## 👨‍💻 Developer
 
